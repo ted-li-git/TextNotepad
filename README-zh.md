@@ -1,3 +1,4 @@
+[简体中文](https://github.com/ted-li-git/TextNotepad/blob/main/README-zh.md)  [English]()<br>
 欢迎使用TextNotepad<br>
 本产品由LJT Studio开发<br>
 联系我们：<br>
