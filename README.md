@@ -3,4 +3,5 @@
 <br>
 <br>
 2025/3/20<br>
-wrote by LJT Studio
+wrote by LJT Studio<br>
+版权所有 © 2025 LJT Studio 保留所有权利 (ALL RIGHTS RESERVED)
